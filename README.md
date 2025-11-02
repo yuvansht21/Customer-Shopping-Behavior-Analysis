@@ -99,3 +99,9 @@ Based on the findings, several strategic recommendations were made:
    ```bash
    git clone https://github.com/<your-username>/customer-shopping-behavior.git
    cd customer-shopping-behavior
+<p align="center">
+  <img src="assets/dashboard.png" alt="Project Cover" width="800">
+</p>
+<p align="center">
+  <img src="assets/analysis.png" alt="Project Cover" width="800">
+</p>
