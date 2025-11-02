@@ -1,7 +1,7 @@
 # 🛒 Customer Shopping Behavior Analysis
 
 <p align="center">
-  <img src="assets/cover.png" alt="Project Cover" width="800">
+  <img src="assets/intro.png" alt="Project Cover" width="800">
 </p>
 
 ## 📘 Project Overview
